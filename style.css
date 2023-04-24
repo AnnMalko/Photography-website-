@@ -1,0 +1,8 @@
+.navbar {
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar-brand, .book{
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+}
